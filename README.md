@@ -24,13 +24,11 @@ This repository contains the materials used for the tutorial on Blockchain for C
 
 **Abstract:** Blockchain technology, combined with novel paradigms in telecommunications like network virtualization and open RAN, outlines a collaborative future in cellular systems, driven by openness, scalability, and flexibility. Such advent is expected to attract new players like content providers and verticals, increasing competitiveness and democratization in the telecom market. In particular, the integration of blockchain in telecommunications will provide automation, robustness, trustworthiness, and reliability to mobile networks, so that confidence is generated to sustain truly autonomous networks, able to conduct self-X operations. In this tutorial, we will overview blockchain technology and foresee potential adoption, applications, existing tools, and architectural solutions to lead a true revolution in telecommunications. Furthermore, we will provide a state-of-the-art regarding the blockchain adoption challenges in the telecom sector including scalability, cost, and performance degradation.
 
-[Presentation - Video]
+[Presentation - Video](https://www.youtube.com/watch?v=lADGXJyYQNU&ab_channel=FranciscoWilhelmi)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=lADGXJyYQNU&ab_channel=FranciscoWilhelmi)
+[Presentation - Slides](https://github.com/fwilhelmi/blockchain_for_communications/blob/main/IEEE%20GET%20Blockchain%202022/iGetBlocckhain%202022%20-%20Slides%20presentation.pdf)
 
-[Hands-on demo on "BlockFLsim"]
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=RbisS1hx-b8&ab_channel=FranciscoWilhelmi)
+[Hands-on demo on "BlockFLsim"](https://www.youtube.com/watch?v=RbisS1hx-b8&ab_channel=FranciscoWilhelmi)
 
 ## References
 
