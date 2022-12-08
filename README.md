@@ -26,9 +26,11 @@ This repository contains the materials used for the tutorial on Blockchain for C
 
 [Presentation - Video]
 
-[Presentation - Slides]
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=lADGXJyYQNU&ab_channel=FranciscoWilhelmi)
 
 [Hands-on demo on "BlockFLsim"]
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=RbisS1hx-b8&ab_channel=FranciscoWilhelmi)
 
 ## References
 
